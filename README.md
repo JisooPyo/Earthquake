@@ -15,7 +15,7 @@
 
 ### 역할
 
-|이름|역할|
-|---|---|
-|임진희|`Input`, `Output`, `Main`|
-|표지수|`Calc`, `Sort`, `Entity`|
+| 이름  | 역할                                    |
+|-----|---------------------------------------|
+| 임진희 | `Input`, `Output`, `Main`, `SortTest` |
+| 표지수 | `Calc`, `Sort`, `Entity`,`CalcTest`   |
