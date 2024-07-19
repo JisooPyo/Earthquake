@@ -6,7 +6,7 @@ import java.util.List;
  * Author : JisooPyo
  * When : Jul, 19, 2024
  * Objective : 환자의 입원비, 진찰비, 진료비를 계산합니다.
- * Environment : Windows 10 Pro, openjdk 17.0.11, IntelliJ 2024.1.4
+ * Environment : Windows 10 22H2(OS build 19045.4651), openjdk 17.0.11, IntelliJ 2024.1.4
  */
 public class Calc {
     List<Patient> patients;

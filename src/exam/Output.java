@@ -6,7 +6,7 @@ import java.util.List;
  * Author : Jinhee Lim
  * When : Jul, 19, 2024
  * Objective : 콘솔에 병원 관리 프로그램을 출력합니다.
- * Environment : Windows 10 Pro, openjdk 17.0.11, IntelliJ 2024.1.4
+ * Environment : Windows 10 22H2(OS build 19045.4651), openjdk 17.0.11, IntelliJ 2024.1.4
  */
 public class Output {
     List<Patient> list;

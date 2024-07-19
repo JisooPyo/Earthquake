@@ -6,7 +6,7 @@ import java.util.List;
  * Author : JisooPyo
  * When : Jul, 19, 2024
  * Objective : 환자 리스트를 환자 번호에 맞게 정렬합니다.
- * Environment : Windows 10 Pro, openjdk 17.0.11, IntelliJ 2024.1.4
+ * Environment : Windows 10 22H2(OS build 19045.4651), openjdk 17.0.11, IntelliJ 2024.1.4
  */
 public class Sort {
     List<Patient> patients;

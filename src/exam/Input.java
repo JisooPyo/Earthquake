@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Author : Jinhee Lim
  * When : Jul, 19, 2024
  * Objective : 환자의 정보를 입력 받아 저장합니다.
- * Environment : Windows 10 Pro, openjdk 17.0.11, IntelliJ 2024.1.4
+ * Environment : Windows 10 22H2(OS build 19045.4651), openjdk 17.0.11, IntelliJ 2024.1.4
  */
 public class Input {
     private List<Patient> list;

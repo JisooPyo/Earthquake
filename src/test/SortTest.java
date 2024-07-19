@@ -13,7 +13,7 @@ import exam.Sort;
  * Author : Jinhee Lim
  * When : Jul, 19, 2024
  * Objective : Sort class Test
- * Environment : Windows 10 Pro, openjdk 17.0.11, IntelliJ 2024.1.4
+ * Environment : Windows 10 22H2(OS build 19045.4651), openjdk 17.0.11, IntelliJ 2024.1.4
  */
 public class SortTest {
 
