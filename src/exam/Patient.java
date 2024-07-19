@@ -1,7 +1,9 @@
+package exam;
+
 /**
  * Author : JisooPyo
  * When : Jul, 19, 2024
- * Objective : Patient Entity
+ * Objective : exam.Patient Entity
  * Environment : Windows 10 Pro, openjdk 17.0.11, IntelliJ 2024.1.4
  */
 public class Patient {
