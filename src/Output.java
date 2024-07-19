@@ -20,7 +20,7 @@ public class Output {
         }
     }
 
-    public void label() {
+    private void label() {
         System.out.println("                 <<병원 관리 프로그램>>");
         System.out.println("--------------------------------------------------------");
         System.out.println("번호\t    진찰부서\t     진찰비\t    입원비\t        진료비\t");

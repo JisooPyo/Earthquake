@@ -16,18 +16,6 @@ public class Input {
         this.sc = new Scanner(System.in);
     }
 
-    public String findDeptByCode(String code) {
-        return switch (code) {
-            case "MI" -> "외과";
-            case "NI" -> "내과";
-            case "SI" -> "피부과";
-            case "TI" -> "소아과";
-            case "VI" -> "산부인과";
-            case "WI" -> "비뇨기과";
-            default -> "잘못 입력하셨습니다.";
-        };
-    }
-
     public void input() {
         String io = null;
         do {
@@ -47,5 +35,17 @@ public class Input {
             System.out.print("입력/출력(I/O)?");
             io = sc.nextLine();
         } while (io.equalsIgnoreCase("i"));
+    }
+
+    private String findDeptByCode(String code) {
+        return switch (code) {
+            case "MI" -> "외과";
+            case "NI" -> "내과";
+            case "SI" -> "피부과";
+            case "TI" -> "소아과";
+            case "VI" -> "산부인과";
+            case "WI" -> "비뇨기과";
+            default -> "잘못 입력하셨습니다.";
+        };
     }
 }
